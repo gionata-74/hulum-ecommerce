@@ -140,12 +140,12 @@ self.__precacheManifest = [
     "url": "/static/media/Vehicle.4a4abf1d.svg"
   },
   {
-    "revision": "a2894cfecaf2c2ef82702cd72376a4f5",
-    "url": "/static/media/shoe.a2894cfe.jpg"
-  },
-  {
     "revision": "005e023df0e6f29a6cd64274eaa7ccf8",
     "url": "/static/media/HeroPic.005e023d.png"
+  },
+  {
+    "revision": "a2894cfecaf2c2ef82702cd72376a4f5",
+    "url": "/static/media/shoe.a2894cfe.jpg"
   },
   {
     "revision": "26890ac1f463980245d0b5b860bc8e8b",
