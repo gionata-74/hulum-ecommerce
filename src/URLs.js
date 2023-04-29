@@ -1,6 +1,6 @@
 
 const URLs = {
-  home: '/',
+  home: '/hulum-ecommerce',
   signIn: '/login',
   register: '/register',
   products: '/products',
