@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/hulum-ecommerce/precache-manifest.224fbbadc635c1bddf15979265be207c.js"
+  "/hulum-ecommerce/precache-manifest.74fa91135995bff4e1faf2d3ce54e879.js"
 );
 
 workbox.clientsClaim();
